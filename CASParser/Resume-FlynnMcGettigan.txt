@@ -1,0 +1,56 @@
+{
+  "Annotations": {
+    "Annotation": [
+      {
+        "SourceName": "HSDB",
+        "SourceID": "12",
+        "Name": "STRONTIUM SULFIDE",
+        "Description": "This record contains information specific to the title compound. Users with an interest in this substance are strongly encouraged also to retrieve the record named <a class=\"pubchem-internal-link CID-5359327\" href=\"https://pubchem.ncbi.nlm.nih.gov/compound/STRONTIUM\">STRONTIUM</a> COMPOUNDS, which has additional information relevant to the toxicity and environmental fate of <a class=\"pubchem-internal-link CID-5359327\" href=\"https://pubchem.ncbi.nlm.nih.gov/compound/strontium\">strontium</a> ions and <a class=\"pubchem-internal-link CID-5359327\" href=\"https://pubchem.ncbi.nlm.nih.gov/compound/strontium\">strontium</a> compounds. For information on the metal itself, refer to the <a class=\"pubchem-internal-link CID-5359327\" href=\"https://pubchem.ncbi.nlm.nih.gov/compound/STRONTIUM\">STRONTIUM</a>, ELEMENTAL record.",
+        "URL": "http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+1314-96-1",
+        "LinkToPubChemBy": {
+          "CID": [
+            14820
+          ]
+        },
+        "Data": [
+          {
+            "TOCHeading": "Melting Point",
+            "Name": "Melting Point",
+            "Description": "**PEER REVIEWED**",
+            "Reference": [
+              "Lide, D.R. (ed.). CRC Handbook of Chemistry and Physics. 76th ed. Boca Raton, FL: CRC Press Inc., 1995-1996., p. 4-88"
+            ],
+            "Value": {
+              "String": [
+                "2002 DEG C"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "SourceName": "HSDB",
+        "SourceID": "30",
+        "Name": "NITROGLYCERIN",
+        "URL": "http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-63-0",
+        "LinkToPubChemBy": {
+          "CID": [
+            4510
+          ]
+        },
+        "Data": [
+          {
+            "TOCHeading": "Melting Point",
+            "Name": "Melting Point",
+            "Description": "**PEER REVIEWED**",
+            "Reference": [
+              "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 1185"
+            ],
+            "Value": {
+              "String": [
+                "Crystalizes in 2 forms: labile form, 2.8 deg C; stable form, 13.5 deg C"
+              ]
+            }
+          }
+        ]
+      },
